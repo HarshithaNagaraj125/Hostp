@@ -1,0 +1,24 @@
+                                                           DESIGN THINKING
+
+
+   
+    Design thinking is extremely helping in solving problems. It is an iterarive process that helps resolve user issues
+    and redefines problems in alternative strategies and solutions.
+
+   Five phases in design thinking
+
+   1. Empathy - objective is to focus on the users requirements
+   2. Define - Identifies the exact problem you should work on
+   3. Ideate - Strategize the solutions 
+   4. Prototype - Finalize the design
+   5. Test - Test the design solution
+
+
+   Goal of design thinking: Solve complex problems from a human perspective
+
+   Tangible benefits of design thinking
+   
+   Feasibility check
+   Clarity and transparency
+   Continous improvements
+   
